@@ -1,1 +1,1 @@
-# CALM-CBM
+# Contextual Latent Embedding for Adaptive Representation
